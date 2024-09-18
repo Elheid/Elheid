@@ -15,8 +15,7 @@ I am currently learning typescipt + react and rewriting this project on a new st
       <img height=150 alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elheid&layout=compact&theme=dracula"/>
    </a>
 </p>
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+
 			<style>
 				@keyframes rotate {
 					0% {
