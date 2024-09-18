@@ -1,9 +1,11 @@
 # Hi, I'm Maxim 👋
-I am a student programmer, currently interested in frontend development.
+<p>
 I already have several projects in in JavaScript, HTML and CSS, including one large project  (but it is privately available). 
 I am currently learning typescipt + react 
-         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>   
+       <br>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </br>
 and rewriting this project on a new stack.
+</p>
+
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Elheid&show_icons=true&count_private=true&theme=dracula">
@@ -19,15 +21,15 @@ and rewriting this project on a new stack.
 </p>
 
 ### How to reach me:
-<div align='left'  style="margin-left:20px">
+<div align='left'  style="margin: 0 20px">
    <p>
-   <span  style="margin-right:10px">my telegram:</span>
+   <span  style="margin:5px 10px">my telegram:</span>
    <a href="https://t.me/elfieleintsvard">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
 <p>
-   <span  style="margin-right:10px">my work mail:</span> 
+   <span  style="margin:0 px 10px">my work mail:</span> 
    <a href='mailto:elfieleintsvard@mail.ru'>elfieleintsvard@mail.ru</a>
 </p>
 </div>
