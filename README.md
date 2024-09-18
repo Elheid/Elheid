@@ -18,12 +18,13 @@ I am currently learning typescipt + react and rewriting this project on a new st
 
 ### How to reach me:
 <p align='center'>
+   <span> my telegram: </span>
    <a href="https://t.me/elfieleintsvard">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
 <p align='center'>
-   📫 my work mail: <a href='mailto:elfieleintsvard@mail.ru'>elfieleintsvard@mail.ru</a>
+   <span>📫 my work mail:</span> <a href='mailto:elfieleintsvard@mail.ru'>elfieleintsvard@mail.ru</a>
 </p>
 
 
