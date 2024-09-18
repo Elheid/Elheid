@@ -17,7 +17,10 @@ I am currently learning typescipt + react and rewriting this project on a new st
 </p>
 
 ### How to reach me:
-<div display:flex>
+<div display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;>
    <p align='center' >
    <span>my telegram:</span>
    <a href="https://t.me/elfieleintsvard">
