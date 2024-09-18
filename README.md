@@ -5,11 +5,16 @@ Senior Software Engineer with more than 5 years of commertial experience. I have
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Elheid&show_icons=true&count_private=true&theme=radical"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=Elheid&show_icons=true&count_private=true&theme=dracula">
+      <img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=Elheid&show_icons=true&count_private=true&theme=radical"/></a>
-   <a href="https://github.com/Elheid/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elheid&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=Elheid&show_icons=true&count_private=true&theme=dracula"
+            alt="stats"
+         />
+   </a>
+   <a href="https://github.com/Elheid/github-readme-stats">
+      <img height=150 alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elheid&layout=compact&theme=dracula"/>
+   </a>
 </p>
 
 <p align='center'>
