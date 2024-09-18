@@ -1,9 +1,8 @@
 # Hi, I'm Maxim 👋
 <p>
 I already have several projects in in JavaScript, HTML and CSS, including one large project  (but it is privately available). 
-I am currently learning typescipt + react 
+I am currently learning typescipt + react and rewriting this project on a new stack.
        <br>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </br>
-and rewriting this project on a new stack.
 </p>
 
 
@@ -34,12 +33,6 @@ and rewriting this project on a new stack.
 </p>
 </div>
 
-
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [Elheid](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
 *   JavaScript/C#/Java
