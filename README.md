@@ -101,7 +101,7 @@ I am currently learning typescipt + react and rewriting this project on a new st
 				<p>Click to see the source</p>
 			</div>
 		</div>
-	</foreignObject>
+
 ### How to reach me:
 <div align='center' >
    <p>
