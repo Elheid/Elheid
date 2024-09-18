@@ -1,7 +1,7 @@
 # Hi, I'm Maxim 👋
 I am a student programmer, currently interested in frontend development.
 I already have several projects in in JavaScript, HTML and CSS, including one large project  (but it is privately available). 
-I am currently learning typescipt + react (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+I am currently learning typescipt + react ![]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
 and rewriting this project on a new stack.
 
 <p align='center'>
