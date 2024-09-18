@@ -16,8 +16,8 @@ I am currently learning typescipt + react and rewriting this project on a new st
    </a>
 </p>
 
+### How to reach me:
 <p align='center'>
-   <span font-size="5em">How to reach me:</span>
    <a href="https://t.me/elfieleintsvard">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
