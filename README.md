@@ -1,7 +1,8 @@
 # Hi, I'm Maxim 👋
 I am a student programmer, currently interested in frontend development.
 I already have several projects in in JavaScript, HTML and CSS, including one large project  (but it is privately available). 
-I am currently learning typescipt + react <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
+I am currently learning typescipt + react 
+<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
 and rewriting this project on a new stack.
 
 <p align='center'>
@@ -18,15 +19,16 @@ and rewriting this project on a new stack.
 </p>
 
 ### How to reach me:
-<div align='center' >
+<div align='left' margin-left:2vw >
    <p>
-   <span>my telegram:</span>
+   <span margin-right:2vw>my telegram:</span>
    <a href="https://t.me/elfieleintsvard">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
 <p>
-   <span>my work mail:</span> <a href='mailto:elfieleintsvard@mail.ru'>elfieleintsvard@mail.ru</a>
+   <span margin-right:2vw>my work mail:</span> 
+   <a href='mailto:elfieleintsvard@mail.ru'>elfieleintsvard@mail.ru</a>
 </p>
 </div>
 
