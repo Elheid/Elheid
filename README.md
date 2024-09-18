@@ -17,7 +17,8 @@ I am currently learning typescipt + react and rewriting this project on a new st
 </p>
 
 ### How to reach me:
-<p align='center' display:flex >
+<div display:flex>
+   <p align='center' >
    <span>my telegram:</span>
    <a href="https://t.me/elfieleintsvard">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -26,6 +27,7 @@ I am currently learning typescipt + react and rewriting this project on a new st
 <p align='center'>
    <span>my work mail:</span> <a href='mailto:elfieleintsvard@mail.ru'>elfieleintsvard@mail.ru</a>
 </p>
+</div>
 
 
 ### Key points
