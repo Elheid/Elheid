@@ -2,7 +2,7 @@
 I am a student programmer, currently interested in frontend development.
 I already have several projects in in JavaScript, HTML and CSS, including one large project  (but it is privately available). 
 I am currently learning typescipt + react 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>   
 and rewriting this project on a new stack.
 
 <p align='center'>
@@ -19,15 +19,15 @@ and rewriting this project on a new stack.
 </p>
 
 ### How to reach me:
-<div align='left'  style="margin-left:2vw">
+<div align='left'  style="margin-left:20px">
    <p>
-   <span  style="margin-right:2vw">my telegram:</span>
+   <span  style="margin-right:10px">my telegram:</span>
    <a href="https://t.me/elfieleintsvard">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
 <p>
-   <span  style="margin-right:2vw">my work mail:</span> 
+   <span  style="margin-right:10px">my work mail:</span> 
    <a href='mailto:elfieleintsvard@mail.ru'>elfieleintsvard@mail.ru</a>
 </p>
 </div>
