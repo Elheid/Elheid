@@ -19,6 +19,9 @@ I am currently learning typescipt + react and rewriting this project on a new st
    </a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/83d1756c-3aa6-4b1d-8292-4086daa7e61a.svg)](https://wakatime.com/@83d1756c-3aa6-4b1d-8292-4086daa7e61a)
+
+
 ### How to reach me:
 <div align='left'  style="margin: 0 20px">
    <p>
