@@ -16,7 +16,7 @@ I am currently learning typescipt + react and rewriting this project on a new st
    </a>
 </p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elheid)](https://github.com/Elheid/github-readme-stats)
+[![Elheid GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Elheid&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Elheid)
 
 [![wakatime](https://wakatime.com/badge/user/83d1756c-3aa6-4b1d-8292-4086daa7e61a.svg)](https://wakatime.com/@83d1756c-3aa6-4b1d-8292-4086daa7e61a)
 
