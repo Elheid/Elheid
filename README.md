@@ -6,15 +6,8 @@ I am currently learning typescipt + react and rewriting this project on a new st
 </p>
 
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Elheid&show_icons=true&count_private=true&theme=dracula">
-      <img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=Elheid&show_icons=true&count_private=true&theme=dracula"
-            alt="stats"
-         />
-   </a>
-</p>
+
+[![Elheid GitHub stats](https://github-readme-stats.vercel.app/api?username=Elheid&show_icons=true&count_private=true&theme=dracula)](https://github.com/Elheid)
 
 [![Elheid GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Elheid&t&exclude_repo=ulearnCourceC-&theme=dracula&show_icons=true&count_private=true)](https://github.com/Elheid)
 
