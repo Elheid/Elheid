@@ -15,7 +15,7 @@ I am currently learning typescipt + react and rewriting this project on a new st
          />
    </a>
    <a href="https://github.com/Elheid/github-readme-stats">
-      <img height=150 alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elheid&layout=compact&theme=dracula"/>
+      [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elheid)](https://github.com/Elheid/github-readme-stats)
    </a>
 </p>
 
