@@ -32,8 +32,7 @@ I am currently learning typescipt + react and rewriting this project on a new st
 
 
 ## 🛠 Technical Stack
-*   JavaScript
-*   React for TypeScript
+*   JavaScript, TypeScript, React
 *   MySQL, PostgreSQL,
 *   GitHub
 *   Docker
