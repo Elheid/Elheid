@@ -32,8 +32,8 @@ I am currently learning typescipt + react and rewriting this project on a new st
 
 
 ## 🛠 Technical Stack
-*   JavaScript/C#/Java
-*   Spring Boot for java, React for TypeScript
+*   JavaScript
+*   React for TypeScript
 *   MySQL, PostgreSQL,
 *   GitHub
 *   Docker
